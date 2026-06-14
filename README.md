@@ -17,7 +17,7 @@
    ↓
 6. Click "Complete Registration"
    ↓
-7. ✅ Success! → Auto-redirect to attendance page
+7. Success! → Auto-redirect to attendance page
    ↓
 8. Now at: http://127.0.0.1:5000/face-attendance/mark
    ↓
@@ -33,7 +33,7 @@
     ↓
 13. Wait for Recognition...
     ↓
-14. ✅ Attendance Marked!
+14.Attendance Marked!
     Student: John Doe
     Confidence: 95%
     Subject: Mathematics
